@@ -1,14 +1,14 @@
-          NAME	       QUANTITY	        COMPONENTS
-     1)   U1	            1	          Arduino Uno R3
+          NAME	       QUANTITY	          COMPONENTS
+     1)   U1	           1	        Arduino Uno R3
          
-     2)  GAS1             1         	Gas Sensor
+     2)  GAS1                  1                Gas Sensor
 
 
-     3)  R1 to R11        11	        220 Ohms Resistor
+     3)  R1 to R11            11	        220 Ohms Resistor
 
-     4)  D1 to D11        10	        Red LED
+     4)  D1 to D11            10	        Red LED
 
-     5)  PEIZO1	          1	          Peizo
+     5)  PEIZO1	          1	        Peizo
 
 
 
